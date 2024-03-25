@@ -1,0 +1,19 @@
+Optimized solution for linear structure with nonlinear dampers with Maxwell model
+Number of time steps: 10001
+Time step: 0.002 s
+Final objective function: 173.547 kN
+Final cd1: 34.573 kNs/mm
+Final cd2: 28.176 kNs/mm
+Final max drift: 9.0 mm
+Final max drift velocity: 215.454 mm/s
+Final max displacement: 16.104 mm
+Final max velocity: 363.889 mm/s
+Final max acceleration: 10399.91 mm/s^2
+Final max damper force: 173.547 kN
+Final max structural force: 177.524 kN
+Final max dfd: 6534.016 kN/s
+Final max dfs: 7493.086 kN/s
+Number of iterations in IPOPT: [108, 31, 154, 45]
+Optimization time in IPOPT: [71.8, 16.7, 75.2, 24.5] s
+Total number of iterations in IPOPT: 338
+Total optimization time in IPOPT: 188.2 s

@@ -1,0 +1,18 @@
+Optimized solution for hysteretic structure with linear dampers
+Number of time steps: 3334
+Time step: 0.006 s
+Final objective function: 238.187  
+Final cd1: 2.963 kNs/mm
+Final cd2: 0.922 kNs/mm
+Final max drift: 9.0 mm
+Final max drift velocity: 131.325 mm/s
+Final max displacement: 17.767 mm
+Final max velocity: 223.149 mm/s
+Final max acceleration: 7998.596 mm/s^2
+Final max structural force: 177.323 kN
+Final max dfs: 3515.909 kN/s
+Final max damper force: 238.187 kN
+Number of iterations in IPOPT: [37, 15, 23, 28]
+Optimization time in IPOPT: [3.8, 2.4, 3.4, 3.5] s
+Total number of iterations in IPOPT: 103
+Total optimization time in IPOPT: 13.2 s
