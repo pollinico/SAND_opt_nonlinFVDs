@@ -1,4 +1,4 @@
-# SAND optimization of nonlinear fluid viscous dampers (FVDs)
+# SAND optimization for seismic retrofitting of hysteretic structures with linear and nonlinear fluid viscous dampers (FVDs)
 
 Size and placement of nonlinear fluid viscous dampers with a simultaneous analysis and design (SAND) optimization approach. The approach is used for retrofitting nonlinear hysteretic structures subjected to transient seismic excitation.
 
