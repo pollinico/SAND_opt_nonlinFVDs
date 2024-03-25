@@ -11,4 +11,4 @@ In particular:
 
 
 In the example of section 6.1 we consider a 2D shear frame structrue, with nonlinear hysteretic behavior and retrofitted with linear fluid viscous dampers:   
-[2D shear frame retrofitted with linear dampers](./images/2dof_lindamp.eps)
+![2D shear frame retrofitted with linear dampers](./images/2dof_lindamp.eps)
