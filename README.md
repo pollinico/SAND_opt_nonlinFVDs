@@ -12,9 +12,12 @@ In particular:
 
 In the example of section 6.1 we consider a 2D shear frame structrue, with nonlinear hysteretic behavior and retrofitted with linear fluid viscous dampers:  
 <img src="./images/2dof_lindamp.jpg" alt="2D shear frame retrofitted with linear dampers" width="280">    
+The results obtained at the ned of the op[timization analysis are stored in the folder `res_2dof_Fy`.   
+   
 
 In the example of section 6.2 we consider a 2D shear frame structrue, with nonlinear hysteretic behavior and retrofitted with nonlinear fluid viscous dampers:  
-<img src="./images/2dof_nonlindamp.jpg" alt="2D shear frame retrofitted with nonlinear dampers" width="280">   
+<img src="./images/2dof_nonlindamp.jpg" alt="2D shear frame retrofitted with nonlinear dampers" width="280">  
+The results obtained at the ned of the op[timization analysis are stored in the folder `res_2dof_Fy_Fd_cdkd`. 
 
 In both cases, the structures are subjected to a seismic groudn excitation defined by the following gound acceleration (El Centro):   
 <img src="./images/LA02.png" alt="El Centro gound acceleration record" width="400"> 
