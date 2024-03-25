@@ -1,3 +1,18 @@
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# This code was written by Nicolò Pollini,                                %
+# Technion - Israel Institute of Technology                               %  
+#                                                                         %
+#                                                                         %
+# Contact: nicolo@technion.ac.il                                          %
+#                                                                         %
+# Code repository: https://github.com/pollinico/SAND_opt_nonlinFVDs       %
+#                                                                         %
+# Disclaimer:                                                             %
+# The author reserves all rights but does not guarantee that the code is  %
+# free from errors. Furthermore, the author shall not be liable in any    %
+# event caused by the use of the program.                                 %
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 # Import packages:
 using JuMP, Ipopt, MAT, LinearAlgebra, Plots, Interpolations
 using LaTeXStrings
