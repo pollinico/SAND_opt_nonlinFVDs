@@ -10,5 +10,6 @@ In particular:
 - The code `PAPER_DampOpt_SAND_2D_Fy_Fd_cdkd.jl` reproduces the results of section 6.2.   
 
 
-In the example of section 6.1 we consider a 2D shear frame structrue, with nonlinear hysteretic behavior and retrofitted with linear fluid viscous dampers:   
-![2D shear frame retrofitted with linear dampers](./images/2dof_lindamp.jpg)
+In the example of section 6.1 we consider a 2D shear frame structrue, with nonlinear hysteretic behavior and retrofitted with linear fluid viscous dampers:  
+<img src="./images/2dof_lindamp.jpg" alt="2D shear frame retrofitted with linear dampers" width="100">
+
