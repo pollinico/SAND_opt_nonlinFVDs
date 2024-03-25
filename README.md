@@ -19,5 +19,5 @@ In the example of section 6.2 we consider a 2D shear frame structrue, with nonli
 <img src="./images/2dof_nonlindamp.jpg" alt="2D shear frame retrofitted with nonlinear dampers" width="280">  
 The results obtained at the end of the optimization analysis are stored in the folder `res_2dof_Fy_Fd_cdkd`. 
 
-In both cases, the structures are subjected to a seismic groudn excitation defined by the following gound acceleration (El Centro):   
+In both cases, the structures are subjected to a seismic ground excitation defined by the following gound acceleration record (El Centro):   
 <img src="./images/LA02.png" alt="El Centro gound acceleration record" width="400"> 
